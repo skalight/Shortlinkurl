@@ -12,6 +12,13 @@ The fastest way to deploy the application is to click the **Deploy to Koyeb** bu
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/narutooxox/RolexTG)
 
 
+## SUPPORT!
+
+[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://t.me/+ZPpcbtCV204yYWU1)
+[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://t.me/RolexMoviesOX)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=narutooxox&label=Profile%20views&color=0e75b6&style=flat" alt="narutooxox" /> </p>
+
 ## Commands
 ```
 • /logs - to get the rescent errors
