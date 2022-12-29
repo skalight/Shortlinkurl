@@ -169,10 +169,10 @@ Owner Will Update The Movie Within 24Hour"""
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """
-🎗<b>[{file_name}](https://t.me/RolexMoviesOX)</b>🎗 \n\n🔆 <i><b>Main Channel » [Rolex Movies](https://t.me/RolexMoviesOX)</i></b> \n🔆 <b><i>Main Group » [Movie Group](https://t.me/+ZPpcbtCV204yYWU1)</b></i>"""
+🎗<b>[{file_name}](https://t.me/RolexMoviesOX)</b>🎗 \n\n🔆 <i><b>Main Channel » [Rolex Movies](vibevibevibevibevib)</i></b> \n🔆 <b><i>Main Group » [Movie Group](https://t.me/+hvGQ4DApC39hYzVl)</b></i>"""
 
     IMDB_TEMPLATE_TXT = """
-<b><i>💫 Title : <a href={url}>{title}</a>  ({year}) 🎭 Genres : {genres} 🌟 IMDB Rating: <a href={url}/ratings>{rating}</a> / 10   📌 [How To Download](https://t.me/RolexMoviesOX/55) </i></b>"""
+<b><i>💫 Title : <a href={url}>{title}</a>  ({year}) 🎭 Genres : {genres} 🌟 IMDB Rating: <a href={url}/ratings>{rating}</a> / 10   📌 [How To Download](https://t.me/hugfbhjin) </i></b>"""
     
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
